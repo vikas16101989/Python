@@ -7,6 +7,8 @@
 
 <img width="443" height="238" alt="image" src="https://github.com/user-attachments/assets/e473edc8-67a4-4ad8-811c-aee833873621" />
 
+
+
 '''
 **Task 2: Sum of Integers from 1 to 50 Using a Loop**
  
